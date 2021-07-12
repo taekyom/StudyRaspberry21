@@ -27,3 +27,5 @@ print(array)
 
 #tuple
 person = ('kim', 24, 'female')
+print(person)
+print(person[1])
