@@ -26,4 +26,4 @@ array[3] = 7
 print(array)
 
 #tuple
-person = ('kim', )
+person = ('kim', 24, 'female')
